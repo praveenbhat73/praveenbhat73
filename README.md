@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello there! Welcome to my GitHub profile.
+Hello there! I'm Praveen Narayan Bhat Welcome to my GitHub profile.
 
 - 🧑‍💻 Interested in Web Development. Passionate for expanding my knowledge.
 - 🌱 I’m currently learning Machine Learning.
