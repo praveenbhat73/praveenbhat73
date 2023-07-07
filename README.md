@@ -10,7 +10,7 @@ Hello there! I'm Praveen Narayan Bhat Welcome to my GitHub profile.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=praveenbhat73&theme=dark)](https://git.io/streak-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenbhat73&size_weight=0.5&count_weight=0.5&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenbhat73&layout=donut&size_weight=0.5&count_weight=0.5&theme=radical)
 
 <a href="https://www.linkedin.com/in/praveen-bhat-858783203/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://praveennbhat.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white&logo=data:null" /></a>
