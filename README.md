@@ -5,7 +5,7 @@ Hello there! I'm Praveen Narayan Bhat Welcome to my GitHub profile.
 - 🌱 I’m currently learning Machine Learning.
 - 😄 Pronouns: He/Him
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=praveenbhat73&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenbhat73&layout=donut&size_weight=0.5&count_weight=0.5&theme=radical)
 
