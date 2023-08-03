@@ -3,7 +3,9 @@ Hello there! I'm Praveen Narayan Bhat Welcome to my GitHub profile.
 
 - 🧑‍💻 Interested in Web Development. Passionate for expanding my knowledge.
 - 🌱 I’m currently learning Machine Learning.
-- 😄 Pronouns: He/Him
+- 😊 Pronouns: He/Him
+- 😂 Fun fact: If your code works perfectly, you might be tempted to give it a high-five, but remember, don't touch it, or you might break the magic spell!
+
 <h3 align="left">🛠 & 💻 Tools and Technologies:</h3>
 <p>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
