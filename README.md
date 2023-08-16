@@ -31,7 +31,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=praveenbhat73&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenbhat73&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark)
 
 
 <a href="https://www.linkedin.com/in/praveen-bhat-858783203/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
