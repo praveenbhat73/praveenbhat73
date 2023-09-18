@@ -29,14 +29,14 @@
 <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/> </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=praveenbhat73&theme=dark)](https://git.io/streak-stats)
+
 
 
 
 <a href="https://www.linkedin.com/in/praveen-bhat-858783203/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://praveennbhat.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white&logo=data:null" /></a>
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=praveenbhat73&theme=react-dark)
+
 
 ```javascript
 const reactions = youLiked(this.Readme) ? ["Give it star💫"] : [];
