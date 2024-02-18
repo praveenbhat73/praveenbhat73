@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 - 🧑‍💻 Interested in Web Development. Passionate for expanding my knowledge.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Spring Boot Microservices.
 - 😊 Pronouns: He/Him
 - 😂 Fun fact: If your code works perfectly, you might be tempted to give it a high-five, but remember, don't touch it, or you might break the magic spell!
 
