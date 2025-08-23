@@ -38,6 +38,13 @@
 <a href="https://www.linkedin.com/in/praveen-bhat-858783203/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://praveennbhat.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-brightgreen?style=for-the-badge&logo=appveyor&logoColor=white&logo=data:null" /></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenbhat73&label=Profile%20views&color=0e75b6&style=flat" alt="praveenbhat73" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenbhat73&show_icons=true&locale=en&layout=compact" alt="praveenbhat73" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenbhat73&show_icons=true&locale=en" alt="praveenbhat73" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenbhat73&" alt="praveenbhat73" /></p>
 
 
 ```javascript
