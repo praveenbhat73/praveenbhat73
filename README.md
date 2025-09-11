@@ -44,7 +44,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenbhat73&show_icons=true&locale=en" alt="praveenbhat73" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenbhat73&" alt="praveenbhat73" /></p>
 
 
 ```javascript
