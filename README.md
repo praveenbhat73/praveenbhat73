@@ -1,10 +1,30 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there I'm Praveen Narayan Bhat
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-- 🧑‍💻 Interested in Web Development. Passionate for expanding my knowledge.
-- 🌱 I’m currently learning Spring Boot Microservices.
-- 😊 Pronouns: He/Him
-- 😂 Fun fact: If your code works perfectly, you might be tempted to give it a high-five, but remember, don't touch it, or you might break the magic spell!
+
+### 🛠️ Tech Stack & Expertise
+
+- **Programming Languages:** Java, JavaScript, Python, HTML, CSS, SQL
+- **Frameworks & Architecture:** Spring Boot, Spring WebFlux, Reactive Java, React.js, Microservices, Payment Systems, ERP Support Systems, Web3 (Basics)
+- **Cloud & DevOps:** AWS S3, Kubernetes, Docker, Jenkins, Git, GitHub, Chaos Engineering, Performance Optimization
+- **Messaging & Databases:** Apache Kafka, MongoDB, SQL
+- **Design & Fundamentals:** Data Structures & Algorithms, Computer Networks, Operating Systems, Responsive Design, UI/UX Design
+
+---
+
+### 🌱 What I'm Currently Learning
+
+- **Machine Learning & AI Trends:**
+  - **Generative AI & LLMs:** Fine-tuning open models, Prompt Engineering, RAG (Retrieval-Augmented Generation)
+  - **Agentic AI & Frameworks:** LangChain, LlamaIndex, PyTorch
+  - **MLOps:** Model Deployment, Tracking (MLflow), Model Context Protocol (MCP)
+- **Modern Backend & System Design:** Distributed Systems Optimization, High-Throughput Event Processing
+
+---
+
+### 🤝 Soft Skills
+
+Problem Solving • Team Collaboration • System Design Communication
 
 <h3 align="left">🛠 & 💻 Tools and Technologies:</h3>
 <p>
