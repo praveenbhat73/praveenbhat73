@@ -60,7 +60,27 @@ Problem Solving • Team Collaboration • System Design Communication
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenbhat73&label=Profile%20views&color=0e75b6&style=flat" alt="praveenbhat73" /> </p>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+## 🎙️ Building VoiceToInvoice
+
+**VoiceToInvoice** is a voice-powered invoice generation application that converts natural speech into structured invoice line items.
+
+Instead of manually entering product names, quantities, rates, and currencies, users can simply speak their invoice details in a natural way. The application processes the voice input, extracts the relevant information, and generates an invoice automatically.
+
+### ✨ What it does
+
+- 🎤 Converts voice input into text
+- 🔢 Understands spoken and numeric quantities
+- 💰 Extracts prices and currencies
+- 🧾 Automatically creates invoice line items
+- 🌍 Supports multilingual voice input
+- ⚡ Provides a simple and fast invoice-generation experience
+
+### 🔗 Project
+
+[VoiceToInvoice](https://voice-to-bill.vercel.app/)
 
 
 ```javascript
