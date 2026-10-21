@@ -63,25 +63,6 @@ Problem Solving • Team Collaboration • System Design Communication
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## 🎙️ Building VoiceToInvoice
-
-**VoiceToInvoice** is a voice-powered invoice generation application that converts natural speech into structured invoice line items.
-
-Instead of manually entering product names, quantities, rates, and currencies, users can simply speak their invoice details in a natural way. The application processes the voice input, extracts the relevant information, and generates an invoice automatically.
-
-### ✨ What it does
-
-- 🎤 Converts voice input into text
-- 🔢 Understands spoken and numeric quantities
-- 💰 Extracts prices and currencies
-- 🧾 Automatically creates invoice line items
-- 🌍 Supports multilingual voice input
-- ⚡ Provides a simple and fast invoice-generation experience
-
-### 🔗 Project
-
-[VoiceToInvoice](https://voice-to-bill.vercel.app/)
-
 
 ```javascript
 const reactions = youLiked(this.Readme) ? ["Give it star💫"] : [];
